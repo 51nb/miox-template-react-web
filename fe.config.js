@@ -1,5 +1,5 @@
 module.exports = {
-  "name": "fe-template-react-web",
+  "name": "miox-template-react-web",
   "description": "创建React项目模板",
   "version": "1.0",
   "engine": "2.0",
