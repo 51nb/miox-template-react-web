@@ -1,3 +1,4 @@
+import 'miox-css';
 import Miox from 'miox';
 import Engine from 'miox-react';
 import router from './routes/index';
